@@ -1,0 +1,44 @@
+---
+layout: default
+title: Courses
+permalink: /courses/
+---
+{% include subpage-header.html %}
+
+<!-- contact form start -->
+
+<div class="container main_container_padding">
+
+  <!-- contact form start -->
+
+
+  <div class="row ">
+
+
+    <p> <strong>Upcoming courses </strong></p>
+
+  </div>
+
+  <div class="row">
+
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="text-muted">posted: {{
+            post.date
+            |
+            date_to_string}} </small>
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+</div>
+
+
+
+
+
+<!-- footer Start -->
