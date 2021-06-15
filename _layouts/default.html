@@ -27,7 +27,6 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/responsive.css">
 
-    <!-- scripts for Map -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
         integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
         crossorigin="" />
@@ -89,8 +88,17 @@
                                         href="courses">Courses</a>
                                 </li>
 
-                                <li {% if page.url=="/resources/" %}class="active" {% endif %}><a
-                                        href="resources">Resources</a>
+                                <li class="nav-item dropdown" {% if page.url=="/resources/" %}class="active" {% endif
+                                    %}><a class="nav-link  dropdown-toggle" href="resources"
+                                        data-bs-toggle="dropdown-1">Resources</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="publications"> Publications</a></li>
+                                        <!-- <li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>
+                                        <li><a class="dropdown-item" href="#"> Submenu item 3 </a></li> -->
+                                    </ul>
+
+                                </li>
+
 
 
                                 <li {% if page.url=="/contact/" %}class="active" {% endif %}><a
@@ -127,7 +135,6 @@
 
 
     <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-
     <script>
 
 
@@ -138,6 +145,60 @@
         }).addTo(map);
 
         L.marker([-33.942, 18.463]).addTo(map)
+
+
+
+
+        document.addEventListener("DOMContentLoaded", function () {
+            // make it as accordion for smaller screens
+            if (window.innerWidth > 992) {
+
+                document.querySelectorAll('.navbar .nav-item').forEach(function (everyitem) {
+
+                    everyitem.addEventListener('mouseover', function (e) {
+
+                        let el_link = this.querySelector('a[data-bs-toggle]');
+
+                        if (el_link != null) {
+                            let nextEl = el_link.nextElementSibling;
+                            el_link.classList.add('show');
+                            nextEl.classList.add('show');
+                        }
+
+                    });
+
+
+
+                    everyitem.addEventListener('click', function (e) {
+
+                        let el_link = this.querySelector('a[data-bs-toggle]');
+
+                        if (el_link != null) {
+                            let nextEl = el_link.nextElementSibling;
+                            el_link.classList.add('show');
+                            nextEl.classList.add('show');
+                        }
+
+                    });
+
+                    everyitem.addEventListener('mouseleave', function (e) {
+                        let el_link = this.querySelector('a[data-bs-toggle]');
+
+                        if (el_link != null) {
+                            let nextEl = el_link.nextElementSibling;
+                            el_link.classList.remove('show');
+                            nextEl.classList.remove('show');
+                        }
+
+
+                    })
+                });
+
+            }
+            // end if innerWidth
+        });
+// DOMContentLoaded  end
+
 
     </script>
 
