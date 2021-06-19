@@ -865,3 +865,8 @@ a{
 
 } 
 
+.name_on_nav{
+  color:#8c2133;
+  font-weight: bold;
+  font-size: 35px;
+}
