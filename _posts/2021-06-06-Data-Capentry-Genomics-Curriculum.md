@@ -7,7 +7,6 @@ categories: available
 ---
 
 {% include subpage-header.html %}
- <br />
 
 ### Data Carpentry Genomics Curriculum
 

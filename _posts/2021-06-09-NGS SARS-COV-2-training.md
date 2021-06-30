@@ -8,7 +8,6 @@ categories: upcoming
 
 {% include subpage-header.html %}
 
- <br />
 ### Africa NGS SARS-COV-2 training course 2021
 
 
