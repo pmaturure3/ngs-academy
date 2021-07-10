@@ -3,7 +3,8 @@ layout: default
 title:  "Relevant courses offered by Coursera"
 date: 2021-06-06
 permalink: /:year/:title
-categories: available
+category: available
+
 ---
 
 {% include subpage-header.html %}

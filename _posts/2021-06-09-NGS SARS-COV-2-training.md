@@ -3,7 +3,8 @@ layout: default
 title:  "NGS SARS-COV-2 training"
 date: 2021-06-09
 permalink: /:year/:title
-categories: upcoming
+category: upcoming
+
 ---
 
 {% include subpage-header.html %}
