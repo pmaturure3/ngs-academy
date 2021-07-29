@@ -79,7 +79,6 @@
                             </a> -->
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
-
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
 
@@ -89,9 +88,24 @@
                                 <li {% if page.url=="/about/" %}class="active" {% endif %}><a href="about">About</a>
 
 
-                                <li {% if page.url=="/courses/" %}class="active" {% endif %}><a
+                                    <!-- <li {% if page.url=="/courses/" %}class="active" {% endif %}><a
                                         href="courses">Courses</a>
+                                </li> -->
+
+
+                                <li class="nav-item dropdown" {% if page.url=="/courses/" %}class="active" {% endif %}>
+                                    <a class="nav-link  dropdown-toggle" href="courses"
+                                        data-bs-toggle="dropdown-1">Courses</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="past-courses"> Past Courses and Training</a>
+                                        </li>
+                                        <!-- <li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>
+                                        <li><a class="dropdown-item" href="#"> Submenu item 3 </a></li> -->
+                                    </ul>
+
                                 </li>
+
+
 
                                 <li class="nav-item dropdown" {% if page.url=="/resources/" %}class="active" {% endif
                                     %}><a class="nav-link  dropdown-toggle" href="resources"
@@ -121,11 +135,10 @@
 </header><!-- header close -->
 
 <body>
-    <div class="container rasie_top_mview">
+    <div class="container">
+
 
         {{ content }}
-
-
     </div>
 
 
@@ -204,8 +217,6 @@
             // end if innerWidth
         });
 // DOMContentLoaded  end
-
-
 
 
     </script>
