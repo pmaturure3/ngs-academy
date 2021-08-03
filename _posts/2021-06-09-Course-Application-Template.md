@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "NGS SARS-CoV-2 training application"
+title:  "NGS SARS-CoV-2 training template"
 date: 2021-06-09
 permalink: /:year/:title
-category: upcoming_old
+category: template
 course_overview : The aim of this program is to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It is primarily aimed at staff who will be preparing samples, doing the sequencing, and running basic data analysis. The content has been divided into modules, some of which are independent, while others form recommended prerequisites for the next module. The content provides theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally include videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants complete practical exercises and submit assignments 
 start_date: 2021-06-28
 end_date: 2021-07-22
@@ -61,16 +61,16 @@ The content provides theoretical knowledge on the steps required for the workflo
 <b>Prerequisites</b>: 
 <br>
 
-<b>Objectives:</b> After the NGS SARS-CoV-2 training participants were able to:
+<b>Objectives:</b> After the NGS SARS-CoV-2 training participants should be able to:
 
 <ol>
-<li>Investigate clusters for transmission in a variety of settings (healthcare, workplace, bar, etc.)</li>
-<li>Identify elements of a study design </li>
-<li>Operate the Oxford Nanonpore MinION DNA sequencer</li>
-<li>Analyze unprocessed data from Oxford Nanopore sequencers</li>
-<li>Identify lineages of study sequences</li>
-<li>Interpret phylogenetic trees</li>
+<li>---</li>
+
+<li>---</li>
+<li>---</li>
+<li>---</li>
 </ol>
+
 
 <b>Course limitations</b>: 
 
@@ -78,11 +78,11 @@ The content provides theoretical knowledge on the steps required for the workflo
 <b>Course curriculum:</b>
 <hr>
 <ol>
-<li>Module 6 Introduction to Genomic Epidemiology and NGS</li>
-<li>Module 7 Wet lab and Sample preparation</li>
-<li>Module 8 Oxford Nanopore Technologies Workflow</li>
-<li>Module 9 Illumina Workflow</li>
-<li>Module 10 Phylogenetics Analysis</li>
+<li>Module 1 Introduction to Genomic Epidemiology and NGS</li>
+<li>Module 2 Wet lab and Sample preparation</li>
+<li>Module 3 Oxford Nanopore Technologies Workflow</li>
+<li>Module 4 Illumina Workflow</li>
+<li>Module 5 Phylogenetics Analysis</li>
 </ol>
 
 <b>Course schedule</b>
