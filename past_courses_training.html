@@ -18,14 +18,14 @@ permalink: /past-courses/
         <div class="panel-heading">
           <h4 class="panel-title">
             <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-              Africa NGS SARS-CoV-2 training course 2021</a>
+              SARS-CoV-2 NGS training course 2021 for Africa CDC</a>
           </h4>
         </div>
         <div id="collapse1" class="panel-collapse collapse in">
           <div class="panel-body">
             <p>
               {% for post in site.posts %}
-              {% if post.categories contains "upcoming" %}
+              {% if post.categories contains "past-course" %}
               <li class="list-unstyled">
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <p>{{post.course_overview}}</p>
