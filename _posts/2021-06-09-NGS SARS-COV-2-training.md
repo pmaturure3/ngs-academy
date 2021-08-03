@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "NGS SARS-COV-2 training"
+title:  "NGS SARS-CoV-2 training"
 date: 2021-06-09
 permalink: /:year/:title
 category: upcoming
@@ -11,7 +11,7 @@ end_date: 2021-07-22
 
 {% include subpage-header.html %}
 
-### Africa NGS SARS-COV-2 training course 2021
+### Africa NGS SARS-CoV-2 training course 2021
 <hr>
 
 <b>Course outline:</b> [ Africa NGS SARS-CoV-2 training course 2021]({{ site.url }}/docs/course_outline.pdf)
@@ -30,7 +30,7 @@ The content provides theoretical knowledge on the steps required for the workflo
 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
 <br>
-<h3>Logistics </h3>
+<h3>Logistics: </h3>
 <hr>
 
 <ol class="list-unstyled">
