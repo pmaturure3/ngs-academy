@@ -44,6 +44,8 @@ The content provided theoretical knowledge on the steps required for the workflo
 <li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li>
 
 
+<li><b>Training partners:</b> 28 June 2021 - 22 July 2021</li>
+
 <li><b>Participation:</b> The course was available to any participant who was able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
 
 
