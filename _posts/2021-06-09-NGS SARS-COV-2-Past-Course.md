@@ -4,7 +4,7 @@ title:  "SARS-CoV-2 NGS training course 2021 for Africa CDC"
 date: 2021-06-09
 permalink: /:year/:title
 category: past-course
-course_overview : The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others form recommended prerequisites for the next module. The content provided theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally included videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants completed practical exercises and submitted assignments.
+course_overview : The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others formed recommended prerequisites for the next module. The content provided theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally included videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants completed practical exercises and submitted assignments.
 start_date: 2021-06-28
 end_date: 2021-07-22
 ---
@@ -12,24 +12,32 @@ end_date: 2021-07-22
 {% include subpage-header.html %}
 
 ### SARS-CoV-2 NGS training course 2021 for Africa CDC
+The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
+
 <hr>
 
 <b>Course outline:</b> [ SARS-CoV-2 NGS training course 2021 for Africa CDC]({{ site.url }}/docs/course_outline.pdf)
 
 <p align="left"><b >Course Overview:</b></p>
 
- <p align="left">The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others form recommended prerequisites for the next module. 
+ <p align="left">The aim of this program was to provide virtual training for personnel at African institutions involved in SARS-CoV-2 sequencing for surveillance. It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis. The content was divided into modules, some of which were independent, while others formed recommended prerequisites for the next module. 
 
 The content provided theoretical knowledge on the steps required for the workflow from sample selection to analysis, to prepare participants for more practical laboratory training when this is feasible. Virtual sessions generally included videos or live online presentations followed by live Q&A sessions with trainers. Where relevant, participants completed practical exercises and submitted assignments and quizzes for assessment. <p>
 
 
 
-<p align="left"><b class="text-left">Intended audience:</b></p>
-
-<p align="left">It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis.</p>
+<p align="left"><b class="text-left">Intended audience:</b> It was primarily aimed at staff preparing samples, doing the sequencing, and running basic data analysis</p>
+<div class="card bg-dark text-white ">
+  <img src="./img/ngs_ngs2021.jpg" width= "100%" class="card-img rounded-corners" alt="...">
+  <div class="card-img-overlay">
+    <small class="card-title">Q/A session for participants and trainers during the SARS-CoV-2 NGS training course 2021 for Africa CDC </small>
+    <p class="card-text"></p>
+   
+  </div>
+</div>
 <!-- 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a> -->
-<br>
+
 <h3>Logistics: </h3>
 <hr>
 
@@ -40,14 +48,16 @@ The content provided theoretical knowledge on the steps required for the workflo
 
 <li><b>Dates for the course:</b> 28 June 2021 - 22 July 2021</li>
 
+<!-- <li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li> -->
 
-<li><b>Course organisers:</b> Tony Li, Kirsty Lee Garson, Perceval Maturure and Prof Nicola Mulder</li>
+
+<li><b>Training partners:</b> <a href="https://www.cdc.gov/" target="_blank">US Centers for Disease Control and Prevention</a>, <a href="https://www.mriglobal.org/" target="_blank">MRIGlobal</a>, <a href="https://www.illumina.com/" target="_blank">Illumina</a>, <a href="https://www.nih.gov/" target="_blank">National Institutes of Health </a>, <a href="https://www.jhu.edu/" target="_blank">Johns Hopkins University </a> and the  <a href="https://www.czbiohub.org/" target="_blank">CZ Biohub</a> 
+    </li>
 
 
 <li><b>Participation:</b> The course was available to any participant who was able to attend the Zoom sessions and the interactive hours with the course instructors for the days of the course</li>
-
-
-<li><b>Course sponsors</b>: BMGF</li>
+<!-- 
+<li><b>Course sponsors</b>: Bill & Mellinda Gates Foundation</li> -->
 
 <u><li><b>Participant applications</b></li></u>
 
@@ -88,218 +98,7 @@ The content provided theoretical knowledge on the steps required for the workflo
 </ol>
 
 
-<!---
-<b>Course schedule</b>
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Date</th>
-      <th scope="col">Sessions</th>
-      <th scope="col">Training partner</th>
-       <th scope="col">Interactive Sessions with Instructor/s</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Mon, 28 June 2021
-      <br>
-      Module 1
-      Session 1</th>
-      <td>
-      Module 1
-      Session 1</td>
-      <td> <ul>
-  <li>US CDC</li>
-  <li>MRIGlobal | Illumina</li>
- 
-</ul> </td>
-            <td>-</td>
-    </tr>
-    <tr>
-      <th scope="row">Tue, 29 June 2021
-      <br>
-      Module 2
-      Session 1</th>
-      <td> Module 2 Session 1</td>
-      <td><ul>
-  
-  <li>MRIGlobal | Illumina</li>
- 
-</ul></td>
-            <td>-</td>
-    </tr>
-    <tr>
-      <th scope="row">Thur, 1 Jul 2021
-      <br>
-      Module 2
-      Session 2</th>
-      <td> Module 2 Session 2</td>
-      <td><ul>
-  
-  <li>MRIGlobal | Illumina</li>
- 
-</ul></td>
-            <td>-</td>
-    </tr>
-    <tr>
-      <th scope="row">Mon, 5 Jul 2021
-      <br>
-      Module 3
-      Session 1</th>
-      <td> Module 3 Session 1</td>
-      <td>
-      <ul>
-  
-  <li>NIH | JHU</li>
- 
-</ul></td>
-            <td><ul>
-             <li> Peter Thielen</li>
-  <li> Brian Merritt</li>
-</ul></td>
-    </tr>
- <tr>
-      <th scope="row">Tue, 6 Jul 2021
-      <br>
-      Module 3
-      Session 2</th>
-      <td> Module 3 Session 2</td>
-      <td>
-      <ul>
-  
-  <li>NIH | JHU</li>
- 
-</ul></td>
-            <td><ul>
-             <li> Peter Thielen</li>
-  <li> Brian Merritt</li>
-</ul></td>
-    </tr>
- <tr>
-      <th scope="row">Thur, 8 Jul 2021
-      <br>
-      Module 3
-      Session 3</th>
-      <td> Module 3 Session 3</td>
-      <td>
-      <ul>
-  
-  <li>NIH | JHU</li>
- 
-</ul></td>
-            <td>  <ul>
-             <li> Peter Thielen</li>
-  <li> Brian Merritt</li>
-</ul></td>
-    </tr>
-     <tr>
-      <th scope="row">Mon, 12 Jul 2021
-      <br>
-      Module 4
-      Session 1</th>
-      <td> Module 4 Session 1</td>
-      <td>
-    <ul>
-  <li>MRIGlobal</li>
-  <li>Illumina</li>
- <li>CZ Biohub</li>
-</ul></td>
-            <td> <ul>
-             
-  <li>
-Elizabeth Fahsbender</li>
-</ul></td>
-    </tr>
-<tr>
-      <th scope="row">Tue, 13 Jul 2021
-      <br>
-      Module 4
-      Session 2</th>
-      <td> Module 4 Session 2</td>
-      <td>
-    <ul>
-  <li>MRIGlobal</li>
-  <li>Illumina</li>
- <li>CZ Biohub</li>
-</ul></td>
-            <td> <ul>
-            
-  <li> 
-Elizabeth Fahsbender</li>
-</ul></td>
-    </tr>
 
-<tr>
-      <th scope="row">Thur, 15 Jul 2021
-      <br>
-      Module 4
-      Session 3</th>
-      <td> Module 4 Session 3</td>
-      <td>
-    <ul>
-  <li>MRIGlobal</li>
-  <li>Illumina</li>
- <li>CZ Biohub</li>
-</ul></td>
-            <td> <ul>
-            
-  <li> 
-Elizabeth Fahsbender</li>
-</ul></td>
-    </tr>
-
-<tr>
-      <th scope="row">Mon, 19 Jul 2021
-      <br>
-      Module 5
-      Session 1</th>
-      <td> Module 5 Session 1</td>
-      <td>
-    <ul>
-  <li>NIH | JHU</li>
-</ul></td>
-            <td><ul>
-             <li>Dr James R Otieno</li>
-  <li>Dr Nídia Trovão</li>
-</ul></td>
-    </tr>
-
-
-<tr>
-      <th scope="row">Tue, 20 Jul 2021
-      <br>
-      Module 5
-      Session 2</th>
-      <td> Module 5 Session 2</td>
-      <td>
-    <ul>
-  <li>NIH | JHU</li>
-</ul></td>
-            <td><ul>
-             <li> Dr James R Otieno</li>
-  <li> Dr Nídia Trovão</li>
-</ul></td>
-    </tr>
-    <tr>
-      <th scope="row">Thur, 22 Jul 2021
-      <br>
-      Module 5
-      Session 3</th>
-      <td> Module 5 Session 3</td>
-      <td>
-    <ul>
-  <li>NIH | JHU</li>
-</ul></td>
-            <td>   <ul>
-             <li> Dr James R Otieno</li>
-  <li> Dr Nídia Trovão</li>
-</ul></td>
-    </tr>
-  </tbody>
-</table>
-
-
--->
   <div class="col-sm-12">
     <div class="panel-group " id="accordion">
       <div class="panel panel-default">
