@@ -6,9 +6,6 @@ permalink: /:year/:title
 category: available 
 
 ---
-
-{% include subpage-header.html %}
-
 ### Relevant courses offered by edX
 
 Essentials of Genomics and Biomedical Informatics\

@@ -7,8 +7,6 @@ category: available
 
 ---
 
-{% include subpage-header.html %}
-
 ### Chan Zuckerberg Initiative Seminars
 
 [https://covidtracker.czbiohub.org/resources](https://covidtracker.czbiohub.org/resources)

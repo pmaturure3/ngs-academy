@@ -35,6 +35,7 @@ github_username:  jekyll
 
 plugins:
   - jekyll-feed
+  # - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,3 +56,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sidebars:
+- lb2_sidebar
+
+
+
