@@ -172,13 +172,15 @@
     <div class="container">
 
         <div class="row">
+            <p></p>
             <div class="container">
-                <div class="col-md-2 border-0">
+
+                <div class="col-md-2 border-0 ">
                     {% include side-nav_js.html %}
 
                 </div>
 
-                <div class="col-lg-10 col-md-10 col-sm-10" class="my-auto">
+                <div class="col-lg-10 col-md-10 col-sm-10 border cont_side_nav_border" class="my-auto">
                     {{content}}
                 </div>
 
@@ -186,15 +188,17 @@
 
 
         </div>
-        <hr>
-        <footer>
-            <div class="container">
-                <div class="row">
-                    <p class="text-dark">Copyright &copy; <a href="http://www.cbio.uct.ac.za/">CBIO-UCT</a>
-                        {{ 'now' | date: "%Y" }}</p>
-                </div>
+
+    </div>
+    <hr>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <p class="text-dark">Copyright &copy; <a href="http://www.cbio.uct.ac.za/">CBIO-UCT</a>
+                    {{ 'now' | date: "%Y" }}</p>
             </div>
-        </footer>
+        </div>
+    </footer>
 </body>
 
 <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
