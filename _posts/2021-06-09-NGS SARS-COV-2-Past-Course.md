@@ -512,7 +512,7 @@ Dr Katrina Kalantar</li>
      <a href="{{ site.url }}uploads/phage_seminar_22July2021.pdf" target="_blank">PHA4GE Seminar.</a>
 </li>
                            <li>                      
-     <a href="{{ site.url }}uploads/additional_phage_resource.pptx" target="_blank">PHA4GE additional resource.</a>
+     <a href="{{ site.url }}uploads/additional_pha4ge_resource.pptx" target="_blank">PHA4GE additional resource.</a>
 </li>
 
 </ul></td>
