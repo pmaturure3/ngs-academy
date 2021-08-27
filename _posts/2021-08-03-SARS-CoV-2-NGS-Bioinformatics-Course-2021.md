@@ -15,7 +15,7 @@ group: group1
 The NGS Academy forms part of the Africa PGI. This initiative is funded by the Bill & Melinda Gates Foundation. Our training initiatives are carried out in partnership with the African Society for Laboratory Medicine (ASLM).
 <hr>
 
-<b>Course outline:</b> [ SARS-CoV-2 NGS Bioinformatics Course 2021]({{ site.url }}/docs/course_outline.pdf)
+<!-- <b>Course outline:</b> [ SARS-CoV-2 NGS Bioinformatics Course 2021]({{ site.url }}/docs/course_outline.pdf) -->
 
 <p align="left"><b >Course Overview:</b></p>
 
@@ -30,7 +30,7 @@ The NGS Academy forms part of the Africa PGI. This initiative is funded by the B
 bioinformatics tools for SARS-CoV-2 NGS data. </p>
 
 <a class="btn btn-secondary btn-lg" href="#" role="button">Click here to apply</a>
-<br>
+
 <h3>Logistics: </h3>
 <hr>
 
@@ -75,10 +75,7 @@ and sharing, advanced bioinformatics analysis, and presenting data to inform pol
 
 </ol>
 
-
 <!-- <b>Course limitations</b>: None -->
-
-<br>
 <b>Course curriculum:</b>
 <hr>
 <ol class="list-unstyled">
@@ -89,56 +86,8 @@ and sharing, advanced bioinformatics analysis, and presenting data to inform pol
 <li>Recommended materials: Model Bioinformatics Analysis</li>
 </ol>
 
-<b>Course schedule</b>
+<!-- <b>Course schedule</b> -->
 
 
 
-  <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Date</th>
-      <th scope="col">Links to course materials</th>
-      <th scope="col">Training partner</th>
-       <th scope="col">Interactive Sessions with Instructor/s</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Mon, Sept 2021
-      <br>
-      Module 1
-      Session 1</th>
-      <td>
-      Module 1
-      Session 1</td>
-      <td> <ul>
-  <li>SANBI</li>
-  <li>----</li>
- 
-</ul> </td>
-            <td><ul>
-             <li>-</li>
-  <li>-</li>
-  <li>-</li>
-</ul></td>
-    </tr>
-    <tr>
-      <th scope="row">Tue,Sept2021
-      <br>
-      Module 2
-      Session 1</th>
-      <td> Module 2 Session 1</td>
-      <td><ul>
-  
-  <li>---</li>
- 
-</ul></td>
-            <td><ul>
-             <li> -</li>
-  <li>-</li>
-    <li>-</li>
-</ul></td>
-    </tr>
-  </tbody>
-</table>
 

@@ -463,7 +463,7 @@ Dr Katrina Kalantar</li>
       <th scope="row">Mon, 19 Jul 2021
       <br>
       Module 5
-      Session 1 &nbsp;&nbsp; &nbsp;&nbsp; </th>
+      Session 1 &nbsp;&nbsp; &nbsp;&nbsp;  </th>
       <td> <ul>
              <li> <a href="https://www.youtube.com/watch?v=PHE6ea0xtPo#0" target="_blank">Bioinformatics III - Working with Sequence Data and Building a Background Genetic Dataset.</a></li>
                <li> <a href="https://www.youtube.com/watch?v=OPIw4mEb1K0#0" target="_blank">    Bioinformatics IV - Sequence Alignment and Tree Building.
